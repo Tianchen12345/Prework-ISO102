@@ -22,7 +22,9 @@
 <li>[x] Introduce yourself button shows alert box with an introduciton and dismiss button </li>
 </ol><br>
 <h3>Optional Features</h3><br>
-[x] User can tap a button to change the color of the background view
+<ol>
+</li>[x] User can tap a button to change the color of the background view</li>
+</ol>
     <ul>
     <li>Add a light switch instead of button that changes background and text color when clicked </li>
     <li>Dark Mode</li>
