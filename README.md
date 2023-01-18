@@ -5,14 +5,14 @@
 
 <p>Introduction app is designed to create a simple introduction of the users simply by filling out basic info on themself. The user inputs their first name, last name, school, how many pets they have, and if they want more on the app and press the Introduce self button on the bottom to generate a text popup notification that introduces the user will the data inputed.</p>
 
-App Walk-though<br>
+<h3>App Walk-though</h3><br>
 
 ![](https://github.com/Tianchen12345/Prework-ISO102/blob/main/ezgif.com-gif-maker.gif)
 
 <br>
 
 
-Required Features<br>
+<h3>Required Features</h3><br>
 <ol>
 <li>[x] App displays an image of a school's logo </li>
 <li>[x] App has three textfields for first, last, and school names </li>
@@ -21,7 +21,7 @@ Required Features<br>
 <li>[x] Switch makes a statement about wanting more pets or not(true/false) </li>
 <li>[x] Introduce yourself button shows alert box with an introduciton and dismiss button </li>
 </ol><br>
-Optional Features<br>
+<h3>Optional Features</h3><br>
 [x] User can tap a button to change the color of the background view
     <ul>
     <li>Add a light switch instead of button that changes background and text color when clicked </li>
