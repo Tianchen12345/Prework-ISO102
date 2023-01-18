@@ -7,7 +7,7 @@
 
 App Walk-though<br>
 
-https://im.ezgif.com/tmp/ezgif-1-8c3232359a.gif
+https://github.com/Tianchen12345/Prework-ISO102/blob/main/ezgif.com-gif-maker.gif
 
 <br>
 
