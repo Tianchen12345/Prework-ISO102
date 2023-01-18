@@ -7,7 +7,7 @@
 
 App Walk-though<br>
 
-1[](https://github.com/Tianchen12345/Prework-ISO102/blob/main/ezgif.com-gif-maker.gif)
+![](https://github.com/Tianchen12345/Prework-ISO102/blob/main/ezgif.com-gif-maker.gif)
 
 <br>
 
