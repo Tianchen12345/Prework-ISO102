@@ -13,14 +13,14 @@ https://im.ezgif.com/tmp/ezgif-1-8c3232359a.gif
 
 
 Required Features<br>
-<ul>
-<li>[x]App displays an image of a school's logo </li>
+<ol>
+<li>[x] App displays an image of a school's logo </li>
 <li>[x] App has three textfields for first, last, and school names </li>
-<li>[x]App has a segmented control that changes student year </li>
+<li>[x] App has a segmented control that changes student year </li>
 <li>[x] Number of pet matches label is increased/decreased by stepper </li>
-<li>[x]Switch makes a statement about wanting more pets or not(true/false) </li>
-<li>[x]Introduce yourself button shows alert box with an introduciton and dismiss button </li>
-</ul><br>
+<li>[x] Switch makes a statement about wanting more pets or not(true/false) </li>
+<li>[x] Introduce yourself button shows alert box with an introduciton and dismiss button </li>
+</ol><br>
 Optional Features<br>
 [X] User can tap a button to change the color of the background view
     <ul>
