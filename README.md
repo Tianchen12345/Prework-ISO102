@@ -23,7 +23,7 @@
 </ol><br>
 <h3>Optional Features</h3><br>
 <ol>
-</li>[x] User can tap a button to change the color of the background view</li>
+<li>[x] User can tap a button to change the color of the background view</li>
 </ol>
     <ul>
     <li>Add a light switch instead of button that changes background and text color when clicked </li>
