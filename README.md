@@ -24,6 +24,6 @@ Required Features<br>
 Optional Features<br>
 [x] User can tap a button to change the color of the background view
     <ul>
-    <li>Add a light swtich that changes background and text color when clicked on</li>
+    <li>Add a light switch instead of button that changes background and text color when clicked </li>
     <li>Dark Mode</li>
     </ul>
